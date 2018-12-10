@@ -1,0 +1,21 @@
+{
+  "name": "budapest-mk4",
+  "version": "1.0.0",
+  "description": "Yet another Discord bot.",
+  "main": "index.js",
+  "author": "CactusBlue",
+  "license": "MIT",
+  "dependencies": {
+    "@types/dotenv": "^6.1.0",
+    "@types/winston": "^2.4.4",
+    "discord.js": "^11.4.2",
+    "dotenv": "^6.1.0",
+    "droll": "^0.2.1",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.2.1",
+    "winston": "^3.1.0"
+  },
+  "scripts": {
+    "dev": "ts-node index"
+  }
+}
